@@ -20,6 +20,3 @@ console.log(typeof {}); // object
 console.log(typeof []); // object (array is an object in JS)
 console.log(typeof undefined); // undefined
 console.log(sym1); // Symbol(sym1)
-
-console.log(typeof isLoggedIn); // boolean
-console.log(typeof temp); // object (null is an object in JS)
